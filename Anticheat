@@ -1,4 +1,4 @@
-return {
-    [86418781726020] = "GZS DEVELOPMENT", 
-    [987654321] = "Nume Joc 2",
-}
+    return {
+        [86418781726020] = "GZS DEVELOPMENT", 
+        [987654321] = "Nume Joc 2",
+    }
